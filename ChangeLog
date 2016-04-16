@@ -1,0 +1,8 @@
+VERS: 2016-04-16 ------- release/0.0.1
+
+    * 2016-04-16 6a82501 [release] Version bumped to 0.0.1 (vst@vsthost.com)
+    * 2016-04-16 cbd43af [chore] Normalizing the package version (vst@vsthost.com)
+    * 2016-04-16 43d1be6 [chore] Ignoring SQLite file (vst@vsthost.com)
+    * 2016-04-16 eddc670 [chore] Added a sample Django project using lazydrf (vst@vsthost.com)
+    * 2016-04-16 b00ebda [feature] Initial code commit (vst@vsthost.com)
+    * 2016-04-16 341228d Initial commit (vst@vsthost.com)
